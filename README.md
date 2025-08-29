@@ -38,31 +38,33 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics  
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=singh-jii-07&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=singh-jii-07&theme=radical&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-jii-07&layout=compact&theme=radical&hide_border=true" height="160"/>
+<!-- Stats Cards -->
+<a href="https://github.com/singh-jii-07">
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-jii-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+</a>
+<a href="https://github.com/singh-jii-07">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=singh-jii-07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+</a>
+<a href="https://github.com/singh-jii-07">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-jii-07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</a>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singh-jii-07&theme=tokyonight" width="95%"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-jii-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singh-jii-07&theme=radical" />
-</p>
-
-
----
-
-## 🚀 Projects Highlight  
-
-<p align="center">
-  <a href="https://github.com/singh-jii-07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-jii-07&theme=react-dark&hide_border=true&area=true" />
-  </a>
-</p>
 
 
 ## 🎉 Fun Badges  
