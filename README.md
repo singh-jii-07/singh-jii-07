@@ -79,8 +79,10 @@
 ## 🐍 Watch my contributions turn into a snake!
 
 <p align="center">
-  <img src="https://github.com/singh-jii-07e/singh-jii-07e/blob/output/dist/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/singh-jii-07/singh-jii-07/output/snake.svg" alt="snake animation" />
 </p>
+
+
 
 
 ✨ *“Code, Learn, Share, Repeat.”*  
