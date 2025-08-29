@@ -76,5 +76,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0f9d58&height=150&section=footer" />
 </p>
+## 🐍 Watch my contributions turn into a snake!
+
+<p align="center">
+  <img src="https://github.com/singh-jii-07e/singh-jii-07e/blob/output/dist/snake.svg" alt="snake animation" />
+</p>
+
 
 ✨ *“Code, Learn, Share, Repeat.”*  
