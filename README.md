@@ -76,11 +76,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0f9d58&height=150&section=footer" />
 </p>
-## 🐍 Watch my contributions turn into a snake!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/singh-jii-07/singh-jii-07/output/snake.svg" alt="snake animation" />
-</p>
 
 
 
