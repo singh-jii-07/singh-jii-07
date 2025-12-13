@@ -19,7 +19,7 @@
 </p>
 
 ✨ Passionate learner & builder with a strong interest in **Data Analytics, MERN stack projects, and mentoring students**.  
-⚡ Currently a **3rd Year B.Tech Student (5th Semester)**, exploring **DBMS & Data Science**.  
+⚡ Currently a **3rd Year B.Tech Student (6th Semester)**, exploring **DBMS & Data Science**.  
 
 - 🎯 Goals: Become a skilled **Data Scientist & Full-Stack Developer**  
 - 🌱 Currently Learning: **Data Analytics | MERN stack advanced concepts**  
