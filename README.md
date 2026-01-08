@@ -6,28 +6,37 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Nilesh+Kumar;🚀+MERN+Stack+Developer;📊+Aspiring+Data+Scientist;💡+Problem+Solver+%26+Mentor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Nilesh+Kumar;🚀+MERN+Stack+Developer;📊+Aspiring+Data+Scientist;💡+Problem+Solver+%26+Student+Mentor" />
   </a>
 </p>
 
 ---
 
-## 🌟 About Me  
+## 👨‍💻 About Me  
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180"/>
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="190"/>
 </p>
 
-✨ Passionate learner & builder with a strong interest in **Data Analytics, MERN stack projects, and mentoring students**.  
-⚡ Currently a **3rd Year B.Tech Student (6th Semester)**, exploring **DBMS & Data Science**.  
+Hi! I'm **Nilesh Kumar**, a passionate **MERN Stack Developer** and an **aspiring Data Scientist** who loves building real-world applications and mentoring fellow students 🚀  
 
-- 🎯 Goals: Become a skilled **Data Scientist & Full-Stack Developer**  
-- 🌱 Currently Learning: **Data Analytics | MERN stack advanced concepts**  
-- 💡 Fun Fact: I love solving problems & debugging gives me joy 😅  
+🎓 **3rd Year B.Tech Student (6th Semester)**  
+📍 Strong foundation in **DBMS, Data Analytics & Full-Stack Development**
+
+### 🔥 What drives me?
+- Building scalable **MERN stack projects**
+- Exploring **data-driven solutions**
+- Teaching & mentoring juniors  
+- Turning bugs into lessons 😄  
+
+### 🎯 Goals
+- Become a skilled **Data Scientist & Full-Stack Engineer**
+- Build impactful projects that solve real problems
+- Contribute to **open source**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
@@ -38,42 +47,52 @@
 </p>
 
 ---
+
+## 🚀 Featured Skills  
+
+- **Frontend:** React, Tailwind CSS, HTML, CSS  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, MySQL  
+- **Programming:** C++, Python, JavaScript  
+- **Other:** Git, GitHub, DBMS, JWT Auth, Cloudinary  
+
+---
+
 ## 📊 GitHub Analytics  
 
 <div align="center">
 
-<!-- Stats Cards -->
 <a href="https://github.com/singh-jii-07">
   <img src="https://github-readme-stats.vercel.app/api?username=singh-jii-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 </a>
+
 <a href="https://github.com/singh-jii-07">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=singh-jii-07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=singh-jii-07&theme=tokyonight&hide_border=true" height="160"/>
 </a>
+
 <a href="https://github.com/singh-jii-07">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-jii-07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </a>
 
-<!-- Profile Summary Card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singh-jii-07&theme=tokyonight" width="95%"/>
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-jii-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 </div>
 
+---
 
-
-## 🎉 Fun Badges  
+## 🏆 Highlights & Badges  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Lifelong%20Learning-blue?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Coding-Hours%20Everyday-orange?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Passion-Building%20Projects-green?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Lifelong%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding-Daily%20Practice-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Real%20World-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -94,9 +113,11 @@
 
 ---
 
-<!-- Footer Wave -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0f9d58&height=150&section=footer" />
 </p>
 
-✨ *“Code, Learn, Share, Repeat.”*  
+<p align="center">
+  ✨ <i>Code. Learn. Build. Share. Repeat.</i> ✨
+</p>
