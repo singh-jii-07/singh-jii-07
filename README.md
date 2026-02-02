@@ -18,7 +18,7 @@
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="190"/>
 </p>
 
-Hi! I'm **Nilesh Kumar**, a passionate **MERN Stack Developer** and an **aspiring Data Scientist** who loves building real-world applications and mentoring fellow students 🚀  
+Hi! I'm **Nilesh singh**, a passionate **MERN Stack Developer** and an **aspiring Data Scientist** who loves building real-world applications and mentoring fellow students 🚀  
 
 🎓 **3rd Year B.Tech Student (6th Semester)**  
 📍 Strong foundation in **DBMS, Data Analytics & Full-Stack Development**
