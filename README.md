@@ -9,11 +9,11 @@ Hi 👋, I'm Nilesh Kumar
 </h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer • 📊 Aspiring Data Scientist • 💡 Problem Solver
+🚀 MERN Stack Developer • 📊 App Developer • 💡 Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Technologies;Building+Real+World+Projects;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;App+Developer+Enthusiast;Always+Learning+New+Technologies;Building+Real+World+Projects;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
@@ -38,8 +38,6 @@ Hi 👋, I'm Nilesh Kumar
 
 💻 Passionate **MERN Stack Developer**
 
-📊 Learning **Data Science & Machine Learning**
-
 🌱 Currently improving **DSA & System Design**
 
 👨‍🏫 Love Teaching & Mentoring Students
@@ -47,7 +45,7 @@ Hi 👋, I'm Nilesh Kumar
 🔥 Love Building Real World Applications
 
 🎯 Goal:
-> Become a Software Engineer & Data Scientist while contributing to Open Source.
+> Become a Web Developer & App Developer while contributing to Open Source.
 
 <br>
 
@@ -70,7 +68,7 @@ Hi 👋, I'm Nilesh Kumar
 
 🔹 Data Analytics
 
-🔹 Machine Learning
+🔹 App Developer
 
 🔹 Open Source Contributions
 
@@ -85,10 +83,10 @@ Hi 👋, I'm Nilesh Kumar
 
 | Category | Skills |
 |----------|---------|
-| Frontend | React.js, HTML5, CSS3, Tailwind CSS |
+| Frontend | React.js, HTML5, CSS3, Tailwind CSS , React Native |
 | Backend | Node.js, Express.js |
 | Database | MongoDB, MySQL |
-| Languages | JavaScript, Python, C++ |
+| Languages | JavaScript, Python, C++, Java |
 | Tools | Git, GitHub, VS Code, Postman |
 | Others | JWT, REST APIs, Cloudinary, DBMS |
 
@@ -120,25 +118,7 @@ Hi 👋, I'm Nilesh Kumar
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singh-jii-07&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singh-jii-07&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
