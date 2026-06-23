@@ -13,7 +13,7 @@ Hi 👋, I'm Nilesh Kumar
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;App+Developer+Enthusiast;Always+Learning+New+Technologies;Building+Real+World+Projects;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;App+Developer;Always+Learning+New+Technologies;Building+Real+World+Projects;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
@@ -125,40 +125,6 @@ Hi 👋, I'm Nilesh Kumar
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/singh-jii-07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote of the Day
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
